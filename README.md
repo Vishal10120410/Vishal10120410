@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishal10120410
+- 👋 Hi, I’m Vishal Waghmare
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently pursuing Mtech in IIT Bombay
 - 📫 How to reach me 8788049735/ vishallwaghmare10@gmail.com
